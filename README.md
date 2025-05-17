@@ -8,7 +8,7 @@ Clone repo into code or appropriate folder:
    ```bash
    npm install
    ```
-
+`
 2. **Create project on Vercel by linking new repo**
 
 3. **Run Vercel command to link project**
